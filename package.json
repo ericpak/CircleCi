@@ -1,0 +1,17 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "description": "testing circleci",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "circleci-test"
+  ],
+  "author": "Eric Pak",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
